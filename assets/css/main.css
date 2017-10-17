@@ -3173,12 +3173,12 @@
 			-ms-filter: blur(0);
 			filter: blur(0);
 			opacity: 1;
-			font-family: Raleway, Helvetica, sans-serif;
+			font-family:Microsoft YaHei, Raleway,  Helvetica, sans-serif;
 			font-size: 1em;
 			font-weight: 200;
 			letter-spacing: 0.1em;
 			line-height: 2;
-			text-transform: uppercase;
+			text-transform: capitalize;
 		}
 
 		@media screen and (max-width: 1280px) {
